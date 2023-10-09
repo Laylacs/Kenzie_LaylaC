@@ -1,0 +1,45 @@
+header {
+    background-color: #333;
+    text-align: center;
+    padding: 20px;
+}
+.logo {
+    color: white;
+    font-size: 24px;
+}
+h1 {
+    color: white;
+}
+.post {
+    background-color: #f5f5f5;
+    margin: 20px;
+    padding: 10px;
+}
+form {
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+input[type="text"],
+input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+button {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+
+/*@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+*pl/icar a fonte Montserrat a todo o texto dentro do corpo da página */
+/*body {
+    font-family: 'Montserrat', sans-serif;
+}/*
+/*Acho que eu tentei mudar a fonte mas não funcionou/*
+
+
